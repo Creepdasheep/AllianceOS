@@ -1,2 +1,3 @@
-# AllianceOS
-A retro style operating system
+# Alliance OS
+
+In Progress
